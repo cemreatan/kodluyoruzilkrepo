@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo Kodluyoruz Front-End Eğitimindeki ilk Repo. 1 README ve 1 index.html dosyası içeriyor. 
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation 
 
@@ -13,8 +13,11 @@ Bu repo Kodluyoruz Front-End Eğitimindeki ilk Repo. 1 README ve 1 index.html do
  Projeyi klonladıktan sonra vscode'u açınız.
 
 Linux:
-''' code:
+''' cd kodluyoruzilkrepo
+code .
 '''
-![Resim](https://4.bp.blogspot.com/-Iy_4i8P_TjI/WmijEou5KZI/AAAAAAAAmco/2IodcMemY6ALCBi2ja-cG25IZdJEw89zgCLcBGAs/s1600/patika.jpg)
+![Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
